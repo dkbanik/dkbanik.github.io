@@ -102,3 +102,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
   - { url: '/blogs', text: 'Blogs'}
+  - { url: '/chat', text: 'Chat'}
